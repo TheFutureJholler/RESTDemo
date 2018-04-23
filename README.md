@@ -1,6 +1,5 @@
 ## Try it
-
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+https://thefuturejholler.github.io/RESTDemo/db.json
 
 ## Use your own data
 
