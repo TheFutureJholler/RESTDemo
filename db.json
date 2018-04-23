@@ -17,6 +17,12 @@
     { "id": 3, "body": "some comment", "postId": 3 },
     { "id": 4, "body": "some comment", "postId": 4 }
   ],
+   "likes": [
+    { "id": 1, "body": "some likes", "postId": 1 },
+    { "id": 2, "body": "some likes", "postId": 2 },
+    { "id": 3, "body": "some likes", "postId": 3 },
+    { "id": 4, "body": "some likes", "postId": 4 }
+  ],
   "profile": {
     "name": "TheFutureJholler"
   }
